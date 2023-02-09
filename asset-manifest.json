@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SRC_Website_React/static/css/main.786c2105.css",
-    "main.js": "/SRC_Website_React/static/js/main.8ea2ae63.js",
+    "main.css": "/SRC_Website_React/static/css/main.4c34478c.css",
+    "main.js": "/SRC_Website_React/static/js/main.1e641ec4.js",
     "static/js/787.e68c53b5.chunk.js": "/SRC_Website_React/static/js/787.e68c53b5.chunk.js",
     "static/media/fa-solid-900.ttf": "/SRC_Website_React/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/fa-brands-400.ttf": "/SRC_Website_React/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
@@ -13,12 +13,12 @@
     "static/media/fa-v4compatibility.woff2": "/SRC_Website_React/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "static/media/logo.svg": "/SRC_Website_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SRC_Website_React/index.html",
-    "main.786c2105.css.map": "/SRC_Website_React/static/css/main.786c2105.css.map",
-    "main.8ea2ae63.js.map": "/SRC_Website_React/static/js/main.8ea2ae63.js.map",
+    "main.4c34478c.css.map": "/SRC_Website_React/static/css/main.4c34478c.css.map",
+    "main.1e641ec4.js.map": "/SRC_Website_React/static/js/main.1e641ec4.js.map",
     "787.e68c53b5.chunk.js.map": "/SRC_Website_React/static/js/787.e68c53b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.786c2105.css",
-    "static/js/main.8ea2ae63.js"
+    "static/css/main.4c34478c.css",
+    "static/js/main.1e641ec4.js"
   ]
 }
